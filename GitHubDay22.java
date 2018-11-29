@@ -7,6 +7,8 @@ public class GitHubDay22{
 			System.out.println("Did it break?");
 			System.out.println("Did it break?");
 			System.out.println("Did it break?");
+			System.out.println("Testing merge error");
+
 	}
 
 }
